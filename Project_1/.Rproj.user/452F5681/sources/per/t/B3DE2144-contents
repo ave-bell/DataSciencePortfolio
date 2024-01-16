@@ -1,0 +1,59 @@
+---
+title: "HR Visualization and Analysis"
+author: "Avery Bell"
+date: "2024-01-16"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Introduction
+
+```{r, import_data}
+# import data
+employee_df <- read.csv("HR-Employee-Attrition.csv")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+### Appendix
+
+```{r, ref.label=knitr::all_labels(), echo=TRUE, eval=FALSE, documentation=1}
+```
